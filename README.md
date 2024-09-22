@@ -1,1 +1,1 @@
-# 2020_Algoritma_ve_Programlama2
+# Algoritma_ve_Programlama2
